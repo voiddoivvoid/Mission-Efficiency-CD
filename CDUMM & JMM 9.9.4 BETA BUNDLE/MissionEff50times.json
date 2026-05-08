@@ -1,0 +1,183 @@
+{
+  "patches": [
+    {
+      "game_file": "gamedata/binary__/client/bin/skill.pabgb",
+      "changes": [
+        {
+          "offset": 1086525,
+          "label": "Farming I",
+          "original": "10270000",
+          "patched": "20a10700"
+        },
+        {
+          "offset": 1087693,
+          "label": "Ranching I",
+          "original": "10270000",
+          "patched": "20a10700"
+        },
+        {
+          "offset": 1088862,
+          "label": "Logging I",
+          "original": "10270000",
+          "patched": "20a10700"
+        },
+        {
+          "offset": 1090028,
+          "label": "Mining I",
+          "original": "10270000",
+          "patched": "20a10700"
+        },
+        {
+          "offset": 1091196,
+          "label": "Forging I",
+          "original": "10270000",
+          "patched": "20a10700"
+        },
+        {
+          "offset": 1092393,
+          "label": "Strengthening I",
+          "original": "10270000",
+          "patched": "20a10700"
+        },
+        {
+          "offset": 1093611,
+          "label": "Fishing I",
+          "original": "10270000",
+          "patched": "20a10700"
+        },
+        {
+          "offset": 1102575,
+          "label": "Gathering I",
+          "original": "10270000",
+          "patched": "20a10700"
+        },
+        {
+          "offset": 1103746,
+          "label": "Banking I",
+          "original": "10270000",
+          "patched": "20a10700"
+        },
+        {
+          "offset": 1086914,
+          "label": "Farming II",
+          "original": "30750000",
+          "patched": "60e31600"
+        },
+        {
+          "offset": 1088083,
+          "label": "Ranching II",
+          "original": "30750000",
+          "patched": "60e31600"
+        },
+        {
+          "offset": 1089251,
+          "label": "Logging II",
+          "original": "30750000",
+          "patched": "60e31600"
+        },
+        {
+          "offset": 1090416,
+          "label": "Mining II",
+          "original": "30750000",
+          "patched": "60e31600"
+        },
+        {
+          "offset": 1091594,
+          "label": "Forging II",
+          "original": "30750000",
+          "patched": "60e31600"
+        },
+        {
+          "offset": 1092801,
+          "label": "Strengthening II",
+          "original": "30750000",
+          "patched": "60e31600"
+        },
+        {
+          "offset": 1094000,
+          "label": "Fishing II",
+          "original": "30750000",
+          "patched": "60e31600"
+        },
+        {
+          "offset": 1102966,
+          "label": "Gathering II",
+          "original": "30750000",
+          "patched": "60e31600"
+        },
+        {
+          "offset": 1104135,
+          "label": "Banking II",
+          "original": "30750000",
+          "patched": "60e31600"
+        },
+        {
+          "offset": 1087304,
+          "label": "Farming III",
+          "original": "60EA0000",
+          "patched": "c0c62d00"
+        },
+        {
+          "offset": 1088474,
+          "label": "Ranching III",
+          "original": "60EA0000",
+          "patched": "c0c62d00"
+        },
+        {
+          "offset": 1089641,
+          "label": "Logging III",
+          "original": "60EA0000",
+          "patched": "c0c62d00"
+        },
+        {
+          "offset": 1090805,
+          "label": "Mining III",
+          "original": "60EA0000",
+          "patched": "c0c62d00"
+        },
+        {
+          "offset": 1091993,
+          "label": "Forging III",
+          "original": "60EA0000",
+          "patched": "c0c62d00"
+        },
+        {
+          "offset": 1093210,
+          "label": "Strengthening III",
+          "original": "60EA0000",
+          "patched": "c0c62d00"
+        },
+        {
+          "offset": 1094390,
+          "label": "Fishing III",
+          "original": "60EA0000",
+          "patched": "c0c62d00"
+        },
+        {
+          "offset": 1103358,
+          "label": "Gathering III",
+          "original": "60EA0000",
+          "patched": "c0c62d00"
+        },
+        {
+          "offset": 1104525,
+          "label": "Banking III",
+          "original": "60EA0000",
+          "patched": "c0c62d00"
+        },
+        {
+          "offset": 1104910,
+          "label": "Superworker",
+          "original": "A0860100",
+          "patched": "404b4c00"
+        }
+      ]
+    }
+  ],
+  "modinfo": {
+    "title": "MissionEff_x50",
+    "version": "1.05.01",
+    "description": "Full CDUMM patch",
+    "author": "HexagonCS"
+  }
+}
