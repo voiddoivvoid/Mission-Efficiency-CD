@@ -1,6 +1,6 @@
 {
   "modinfo": {
-    "description": "Full DMM patch",
+    "description": "Full CDUMM Patch",
     "version": "1.0",
     "author": "HexagonCS reworked by Void",
     "title": "MissionEffx50",
@@ -12,169 +12,169 @@
     {
       "entry": "Skill_Farming_I",
       "key": 66004,
-      "field": "mission_eff_farming_i",
+      "field": "worker_skill_farming",
       "new": 500000
     },
     {
       "entry": "Skill_Farming_II",
       "key": 66005,
-      "field": "mission_eff_farming_ii",
+      "field": "worker_skill_farming",
       "new": 1500000
     },
     {
       "entry": "Skill_Farming_III",
       "key": 66045,
-      "field": "mission_eff_farming_iii",
+      "field": "worker_skill_farming",
       "new": 3000000
     },
     {
       "entry": "Skill_Ranching_I",
       "key": 66006,
-      "field": "mission_eff_ranching_i",
+      "field": "worker_skill_ranching",
       "new": 500000
     },
     {
       "entry": "Skill_Ranching_II",
       "key": 66007,
-      "field": "mission_eff_ranching_ii",
+      "field": "worker_skill_ranching",
       "new": 1500000
     },
     {
       "entry": "Skill_Ranching_III",
       "key": 66046,
-      "field": "mission_eff_ranching_iii",
+      "field": "worker_skill_ranching",
       "new": 3000000
     },
     {
       "entry": "Skill_Logging_I",
       "key": 66008,
-      "field": "mission_eff_logging_i",
+      "field": "worker_skill_logging",
       "new": 500000
     },
     {
       "entry": "Skill_Logging_II",
       "key": 66009,
-      "field": "mission_eff_logging_ii",
+      "field": "worker_skill_logging",
       "new": 1500000
     },
     {
       "entry": "Skill_Logging_III",
       "key": 66047,
-      "field": "mission_eff_logging_iii",
+      "field": "worker_skill_logging",
       "new": 3000000
     },
     {
       "entry": "Skill_Mining_I",
       "key": 66010,
-      "field": "mission_eff_mining_i",
+      "field": "worker_skill_mining",
       "new": 500000
     },
     {
       "entry": "Skill_Mining_II",
       "key": 66011,
-      "field": "mission_eff_mining_ii",
+      "field": "worker_skill_mining",
       "new": 1500000
     },
     {
       "entry": "Skill_Mining_III",
       "key": 66048,
-      "field": "mission_eff_mining_iii",
+      "field": "worker_skill_mining",
       "new": 3000000
     },
     {
       "entry": "Skill_Forging_I",
       "key": 66012,
-      "field": "mission_eff_forging_i",
+      "field": "worker_skill_forging",
       "new": 500000
     },
     {
       "entry": "Skill_Forging_II",
       "key": 66013,
-      "field": "mission_eff_forging_ii",
+      "field": "worker_skill_forging",
       "new": 1500000
     },
     {
       "entry": "Skill_Forging_III",
       "key": 66049,
-      "field": "mission_eff_forging_iii",
+      "field": "worker_skill_forging",
       "new": 3000000
     },
     {
       "entry": "Skill_Strengthening_I",
       "key": 66024,
-      "field": "mission_eff_strengthening_i",
+      "field": "worker_skill_strengthening",
       "new": 500000
     },
     {
       "entry": "Skill_Strengthening_II",
       "key": 66025,
-      "field": "mission_eff_strengthening_ii",
+      "field": "worker_skill_strengthening",
       "new": 1500000
     },
     {
       "entry": "Skill_Strengthening_III",
       "key": 66053,
-      "field": "mission_eff_strengthening_iii",
+      "field": "worker_skill_strengthening",
       "new": 3000000
     },
     {
       "entry": "Skill_Fishing_I",
       "key": 66014,
-      "field": "mission_eff_fishing_i",
+      "field": "worker_skill_fishing",
       "new": 500000
     },
     {
       "entry": "Skill_Fishing_II",
       "key": 66015,
-      "field": "mission_eff_fishing_ii",
+      "field": "worker_skill_fishing",
       "new": 1500000
     },
     {
       "entry": "Skill_Fishing_III",
       "key": 66050,
-      "field": "mission_eff_fishing_iii",
+      "field": "worker_skill_fishing",
       "new": 3000000
     },
     {
       "entry": "Skill_Gathering_I",
       "key": 66028,
-      "field": "mission_eff_gathering_i",
+      "field": "worker_skill_gathering",
       "new": 500000
     },
     {
       "entry": "Skill_Gathering_II",
       "key": 66029,
-      "field": "mission_eff_gathering_ii",
+      "field": "worker_skill_gathering",
       "new": 1500000
     },
     {
       "entry": "Skill_Gathering_III",
       "key": 66055,
-      "field": "mission_eff_gathering_iii",
+      "field": "worker_skill_gathering",
       "new": 3000000
     },
     {
       "entry": "Skill_Banking_I",
       "key": 66002,
-      "field": "mission_eff_banking_i",
+      "field": "worker_skill_banking",
       "new": 500000
     },
     {
       "entry": "Skill_Banking_II",
       "key": 66003,
-      "field": "mission_eff_banking_ii",
+      "field": "worker_skill_banking",
       "new": 1500000
     },
     {
       "entry": "Skill_Banking_III",
       "key": 66044,
-      "field": "mission_eff_banking_iii",
+      "field": "worker_skill_banking",
       "new": 3000000
     },
     {
       "entry": "Skill_SuperWorker",
       "key": 66042,
-      "field": "mission_eff_superworker",
+      "field": "worker_skill_superworker",
       "new": 5000000
     }
   ]
