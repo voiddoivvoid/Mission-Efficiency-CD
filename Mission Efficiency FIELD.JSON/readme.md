@@ -6,6 +6,6 @@ This is because the required `field.json` primitive support has not yet been imp
 
 Compatibility is pending review and approval of the following pull request:
 
-- https://github.com/voiddoivvoid/CrimsonDesert-UltimateModsManager/tree/add-mission-eff-skill-primitives
+- https://github.com/faisalkindi/CrimsonDesert-UltimateModsManager/pull/124
 
 If this pull request is merged into the main CDUMM repository, the CDUMM variant of this mod should function as intended.
