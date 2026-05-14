@@ -1,5 +1,7 @@
 -JSON and FIELD.JSON files compatible with game version 1.06.01
 
--Requires latest version CDUMM/JMM/DMM
+-.JSON Requires latest version CDUMM/JMM (using .JSON inside DMM will present oddities in the form of file-level conflicts with the possibility of this mod being overwrit or this mod overwriting another mod)
 
--Generator compatible with game version 1.06.01
+-FIELD.JSON Requires latest version DMM
+
+-Custom Mission Efficiency compatible with game version 1.06.01
