@@ -13,169 +13,197 @@
       "entry": "Skill_Farming_I",
       "key": 66004,
       "field": "worker_skill_farming",
-      "new": 15000
+      "new": 15000,
+      "old": "1027000000000000"
     },
     {
       "entry": "Skill_Farming_II",
       "key": 66005,
       "field": "worker_skill_farming",
-      "new": 45000
+      "new": 45000,
+      "old": "3075000000000000"
     },
     {
       "entry": "Skill_Farming_III",
       "key": 66045,
       "field": "worker_skill_farming",
-      "new": 90000
+      "new": 90000,
+      "old": "60ea000000000000"
     },
     {
       "entry": "Skill_Ranching_I",
       "key": 66006,
       "field": "worker_skill_ranching",
-      "new": 15000
+      "new": 15000,
+      "old": "1027000000000000"
     },
     {
       "entry": "Skill_Ranching_II",
       "key": 66007,
       "field": "worker_skill_ranching",
-      "new": 45000
+      "new": 45000,
+      "old": "3075000000000000"
     },
     {
       "entry": "Skill_Ranching_III",
       "key": 66046,
       "field": "worker_skill_ranching",
-      "new": 90000
+      "new": 90000,
+      "old": "60ea000000000000"
     },
     {
       "entry": "Skill_Logging_I",
       "key": 66008,
       "field": "worker_skill_logging",
-      "new": 15000
+      "new": 15000,
+      "old": "1027000000000000"
     },
     {
       "entry": "Skill_Logging_II",
       "key": 66009,
       "field": "worker_skill_logging",
-      "new": 45000
+      "new": 45000,
+      "old": "3075000000000000"
     },
     {
       "entry": "Skill_Logging_III",
       "key": 66047,
       "field": "worker_skill_logging",
-      "new": 90000
+      "new": 90000,
+      "old": "60ea000000000000"
     },
     {
       "entry": "Skill_Mining_I",
       "key": 66010,
       "field": "worker_skill_mining",
-      "new": 15000
+      "new": 15000,
+      "old": "1027000000000000"
     },
     {
       "entry": "Skill_Mining_II",
       "key": 66011,
       "field": "worker_skill_mining",
-      "new": 45000
+      "new": 45000,
+      "old": "3075000000000000"
     },
     {
       "entry": "Skill_Mining_III",
       "key": 66048,
       "field": "worker_skill_mining",
-      "new": 90000
+      "new": 90000,
+      "old": "60ea000000000000"
     },
     {
       "entry": "Skill_Forging_I",
       "key": 66012,
       "field": "worker_skill_forging",
-      "new": 15000
+      "new": 15000,
+      "old": "1027000000000000"
     },
     {
       "entry": "Skill_Forging_II",
       "key": 66013,
       "field": "worker_skill_forging",
-      "new": 45000
+      "new": 45000,
+      "old": "3075000000000000"
     },
     {
       "entry": "Skill_Forging_III",
       "key": 66049,
       "field": "worker_skill_forging",
-      "new": 90000
+      "new": 90000,
+      "old": "60ea000000000000"
     },
     {
       "entry": "Skill_Strengthening_I",
       "key": 66024,
       "field": "worker_skill_strengthening",
-      "new": 15000
+      "new": 15000,
+      "old": "1027000000000000"
     },
     {
       "entry": "Skill_Strengthening_II",
       "key": 66025,
       "field": "worker_skill_strengthening",
-      "new": 45000
+      "new": 45000,
+      "old": "3075000000000000"
     },
     {
       "entry": "Skill_Strengthening_III",
       "key": 66053,
       "field": "worker_skill_strengthening",
-      "new": 90000
+      "new": 90000,
+      "old": "60ea000000000000"
     },
     {
       "entry": "Skill_Fishing_I",
       "key": 66014,
       "field": "worker_skill_fishing",
-      "new": 15000
+      "new": 15000,
+      "old": "1027000000000000"
     },
     {
       "entry": "Skill_Fishing_II",
       "key": 66015,
       "field": "worker_skill_fishing",
-      "new": 45000
+      "new": 45000,
+      "old": "3075000000000000"
     },
     {
       "entry": "Skill_Fishing_III",
       "key": 66050,
       "field": "worker_skill_fishing",
-      "new": 90000
+      "new": 90000,
+      "old": "60ea000000000000"
     },
     {
       "entry": "Skill_Gathering_I",
       "key": 66028,
       "field": "worker_skill_gathering",
-      "new": 15000
+      "new": 15000,
+      "old": "1027000000000000"
     },
     {
       "entry": "Skill_Gathering_II",
       "key": 66029,
       "field": "worker_skill_gathering",
-      "new": 45000
+      "new": 45000,
+      "old": "3075000000000000"
     },
     {
       "entry": "Skill_Gathering_III",
       "key": 66055,
       "field": "worker_skill_gathering",
-      "new": 90000
+      "new": 90000,
+      "old": "60ea000000000000"
     },
     {
       "entry": "Skill_Banking_I",
       "key": 66002,
       "field": "worker_skill_banking",
-      "new": 15000
+      "new": 15000,
+      "old": "1027000000000000"
     },
     {
       "entry": "Skill_Banking_II",
       "key": 66003,
       "field": "worker_skill_banking",
-      "new": 45000
+      "new": 45000,
+      "old": "3075000000000000"
     },
     {
       "entry": "Skill_Banking_III",
       "key": 66044,
       "field": "worker_skill_banking",
-      "new": 90000
+      "new": 90000,
+      "old": "60ea000000000000"
     },
     {
       "entry": "Skill_SuperWorker",
       "key": 66042,
       "field": "worker_skill_superworker",
-      "new": 150000
+      "new": 150000,
+      "old": "a086010000000000"
     }
   ]
 }
